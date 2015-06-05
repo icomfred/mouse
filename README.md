@@ -25,6 +25,7 @@ This software is a **medical project** builds in the foundation [ICOM](https://t
 
 #### About additional coding for evolution, thanks goes to:
   * [Frederic Figarol](icomfred@gmail.com).
+  * [Ugo Marotte](ugo.marotte@gmail.com).
 
 #### About japanese translation, thanks goes to:
   * @Natsumi -@菜摘-.
